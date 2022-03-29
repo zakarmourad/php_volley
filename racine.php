@@ -1,4 +1,2 @@
 <?php
-
-define("RACINE", 'C:\xampp\htdocs\projet');
-
+ define("RACINE", __DIR__);
